@@ -1,4 +1,4 @@
-project('gitpublic' , 'cpp')
+project('test' , 'cpp')
 
 
-executable('gitpublic' , 'first.cpp' , install : true )
+executable('test' , 'first.cpp' , install : true )
